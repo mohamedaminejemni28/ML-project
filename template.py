@@ -1,7 +1,7 @@
 import os 
 from pathlib import Path
 
-project_name="US-visa"
+project_name="us_visa"
 list__of_files=[
     f"{project_name}/__init__.py",
     f"{project_name}/components/__init__.py",
@@ -31,8 +31,6 @@ list__of_files=[
     "setup.py",
     "config/model.yaml",
     "config/schema.yaml",
-
-
 ]
 
 
